@@ -19,6 +19,8 @@
     NSLog(@"branch1_2");
     NSLog(@"branch1_2 change1");
     NSLog(@"branch1_2 change2");
+    
+    NSLog(@"branch1_2_1");
     return self;
 }
 
