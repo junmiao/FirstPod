@@ -10,4 +10,12 @@
 
 @implementation TestC
 
+- (id)init
+{
+    self = [super init];
+    NSLog(@"branch1");
+    
+    return self;
+}
+
 @end
