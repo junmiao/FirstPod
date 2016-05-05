@@ -36,6 +36,8 @@
     NSLog(@"工作流1");
     NSLog(@"工作流2");
     
+    
+    NSLog(@"work flow1 function1");
 
     return self;
 }
