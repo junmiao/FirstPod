@@ -15,6 +15,7 @@
     self = [super init];
     NSLog(@"branch1");
     NSLog(@"branch1_1 change1");
+    NSLog(@"branch1_1 change2");
     
     return self;
 }
